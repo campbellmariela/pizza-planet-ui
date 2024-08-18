@@ -21,3 +21,16 @@
 .order {
   display: none;
 }
+
+.custom-card-img-top {
+  font-size: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.card-header {
+  background-color: #212529;
+  color: white;
+  font-weight: bold;
+}
